@@ -1,0 +1,11 @@
+
+#app environment variables
+env:
+  APP_NAME: Test App
+  APP_URL: http://test.com
+
+#app scale  
+scale: 1
+
+#app root folder. 
+root: /
