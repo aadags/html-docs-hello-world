@@ -1,8 +1,8 @@
 
 #app environment variables
 env:
-  app: Test App
-  url: http://test.com
+  APP_NAME: TestApp
+  APP_URL: http://test.com
 
 #app scale  
 scale: 1
