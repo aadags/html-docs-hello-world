@@ -8,4 +8,4 @@ env:
 scale: 1
 
 #app root folder. 
-root: /
+root: index.html
